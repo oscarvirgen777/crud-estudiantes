@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1793401500752,
+    "name": "Ana garcia",
+    "email": "ana@gmail.com",
+    "bootcamp": "frontend"
+  },
+  {
+    "id": 1793401546398,
+    "name": "manuel garcia",
+    "email": "manuel@gmail.com",
+    "bootcamp": "backend"
+  }
+]
